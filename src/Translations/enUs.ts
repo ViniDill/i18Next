@@ -1,6 +1,6 @@
-import { pageOneEnUS } from "../pages/pageOne/Locales";
-import { pageTwoEnUS } from "../pages/pageTwo/Locales";
-import { pageThreeEnUS } from "../pages/pageThree/Locales";
+import { pageOneEnUS } from "../utils/Locales";
+import { pageTwoEnUS } from "../utils/Locales";
+import { pageThreeEnUS } from "../utils/Locales";
 
 export default {
   ...pageOneEnUS,

@@ -1,6 +1,6 @@
-import { pageOnePtBR } from "../pages/pageOne/Locales";
-import { pageTwoPtBR } from "../pages/pageTwo/Locales";
-import { pageThreePtBR } from "../pages/pageThree/Locales";
+import { pageOnePtBR } from "../utils/Locales";
+import { pageTwoPtBR } from "../utils/Locales";
+import { pageThreePtBR } from "../utils/Locales";
 
 export default {
   ...pageOnePtBR,

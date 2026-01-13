@@ -1,0 +1,9 @@
+export { pageOnePtBR } from "./dictionaries/ptBR";
+export { pageOneEnUS } from "./dictionaries/enUS";
+export { pageOneEsES } from "./dictionaries/esES";
+export { pageTwoPtBR } from "./dictionaries/ptBR";
+export { pageTwoEnUS } from "./dictionaries/enUS";
+export { pageTwoEsES } from "./dictionaries/esES";
+export { pageThreePtBR } from "./dictionaries/ptBR";
+export { pageThreeEnUS } from "./dictionaries/enUS";
+export { pageThreeEsES } from "./dictionaries/esES";
